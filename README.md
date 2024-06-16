@@ -6,4 +6,4 @@ This is a project I have started to practice of bit of VHDL whilst revising comp
 Firstly I'll focus on building the hardware platform of a simpler computer. After that I aim to create a multi-tier software heiarchy, with the end goal of making my own object-based programming language and my own operating system. Essentially, I am starting with simple logic and abstracting further and further.
 
 # Hardware
-I will be using the [Basys 3 Board](https://digilent.com/reference/programmable-logic/basys-3/start) an educational development board that uses the Artix-7 FPGA. 
+I will be using the [Basys 3 Board](https://digilent.com/reference/programmable-logic/basys-3/start), an educational development board that uses the Artix-7 FPGA. 
