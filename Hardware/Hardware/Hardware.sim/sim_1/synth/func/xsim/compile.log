@@ -1,0 +1,7 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/yates/Documents/GitHub/Building-A-Computer-From-First-Principles/Hardware/Hardware/Hardware.sim/sim_1/synth/func/xsim/ALU_tb_func_synth.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ALU'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/yates/Documents/GitHub/Building-A-Computer-From-First-Principles/Hardware/Hardware/Hardware.srcs/sources_1/new/ALU.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ALU'
+WARNING: [VRFC 10-3607] overwriting existing primary unit 'alu' [/home/yates/Documents/GitHub/Building-A-Computer-From-First-Principles/Hardware/Hardware/Hardware.srcs/sources_1/new/ALU.vhd:20]
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/yates/Documents/GitHub/Building-A-Computer-From-First-Principles/Hardware/Hardware/Hardware.srcs/sim_1/new/ALU_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ALU_tb'
