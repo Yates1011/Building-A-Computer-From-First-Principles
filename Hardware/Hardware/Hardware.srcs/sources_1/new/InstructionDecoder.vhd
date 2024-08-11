@@ -42,7 +42,7 @@ begin
     no <= muxOut(6);
     a <= ((not muxOut(5)) nand instruction(15));
     d <= muxOut(4);
-    b <= muxOut(3);
+    b <= muxOut(3); -- m 
     lt <= muxOut(2);
     eq <= muxOut(1);
     gt <= muxOut(0);

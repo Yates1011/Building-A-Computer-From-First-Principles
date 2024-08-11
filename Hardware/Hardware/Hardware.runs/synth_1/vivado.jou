@@ -3,11 +3,11 @@
 # SW Build 5076996 on Wed May 22 18:36:09 MDT 2024
 # IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
 # SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
-# Start of session at: Sun Jul 28 20:12:13 2024
-# Process ID: 40864
+# Start of session at: Sun Aug 11 17:58:13 2024
+# Process ID: 83811
 # Current directory: /home/yates/Documents/GitHub/Building-A-Computer-From-First-Principles/Hardware/Hardware/Hardware.runs/synth_1
-# Command line: vivado -log ALU.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source ALU.tcl
-# Log file: /home/yates/Documents/GitHub/Building-A-Computer-From-First-Principles/Hardware/Hardware/Hardware.runs/synth_1/ALU.vds
+# Command line: vivado -log MemoryModule.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source MemoryModule.tcl
+# Log file: /home/yates/Documents/GitHub/Building-A-Computer-From-First-Principles/Hardware/Hardware/Hardware.runs/synth_1/MemoryModule.vds
 # Journal file: /home/yates/Documents/GitHub/Building-A-Computer-From-First-Principles/Hardware/Hardware/Hardware.runs/synth_1/vivado.jou
 # Running On        :yates-MS-7C02
 # Platform          :Linuxmint
@@ -19,6 +19,6 @@
 # Host memory       :33591 MB
 # Swap memory       :2147 MB
 # Total Virtual     :35738 MB
-# Available Virtual :27729 MB
+# Available Virtual :28022 MB
 #-----------------------------------------------------------
-source ALU.tcl -notrace
+source MemoryModule.tcl -notrace
